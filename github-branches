@@ -1,0 +1,5 @@
+raul@iMac:~/Desktop/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert df799f2 [origin/bug-fix-revert] Revert "Update README footer year"
+  bug-fix-typo   cdf2fdd [origin/bug-fix-typo] Update README footer year
+  main           cdf2fdd [origin/main: ahead 1] Update README footer year
+raul@iMac:~/Desktop/mcino-Introduction-to-Git-and-GitHub$ 
